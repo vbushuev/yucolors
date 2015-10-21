@@ -1,0 +1,17 @@
+{
+  "name": "colors.life",
+  "description": "Frontend",
+  "version": "0.0.1",
+  "homepage": "https://colors.life",
+  "license": "MIT",
+  "private": true,
+  "directory": "vendor/bower_components/",
+  "dependencies": {
+    "angular": "1.4.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "1.4.x",
+    "angular-resource": "1.4.x",
+    "angular-animate": "1.4.x"
+  }
+}
